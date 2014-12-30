@@ -1,0 +1,30 @@
+{
+  "name": "Player",
+  "version": "0.0.1",
+  "description": "player website",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "~0.14.0",
+    "koa-logger": "~1.2.2",
+    "koa-route": "~2.4.0",
+    "co-body": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/Player.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa"
+  ],
+  "author": "Vi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/Player/issues"
+  },
+  "homepage": "https://github.com/devWayne/Player"
+}
